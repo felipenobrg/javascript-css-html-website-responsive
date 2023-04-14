@@ -1,4 +1,4 @@
-<h1 align="center"> Pokédex </h1>
+<h1 align="center"> Color </h1>
 
 <p align="center">
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
